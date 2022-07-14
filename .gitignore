@@ -1,0 +1,7 @@
+healthy
+healthy_fovmask
+healthy_manualsegm
+results
+*.joblib
+.idea
+venv
